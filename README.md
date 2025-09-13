@@ -46,7 +46,8 @@ This repository contains four projects:
   - npm run build (TypeScript build + Vite build)
   - npm run preview (Preview built app)
 
-## Build
+---
 
-- Backend: run `mvn -q -e -DskipTests package` at repo root to build services.
-- Frontend: run `npm install` then `npm run dev` inside `frontend-app`.
+## Deployment in GCP
+
+- [Deploy MySQL Database in GCP](https://drive.google.com/file/d/1Hks0QckpR3XYiGYGj_M3HoBuIbMRzJhX/view?usp=sharing)
