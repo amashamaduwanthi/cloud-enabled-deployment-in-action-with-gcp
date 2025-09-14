@@ -48,6 +48,6 @@ This repository contains four projects:
 
 ---
 
-## Deployment in GCP
+## Deployment in GCP Demo Video
 
-- [Deploy MySQL Database in GCP](https://drive.google.com/file/d/1Hks0QckpR3XYiGYGj_M3HoBuIbMRzJhX/view?usp=sharing)
+- [Deploy MySQL Database in GCP](https://drive.google.com/file/d/1QXXCAg7_zz4mETQpX28nspHS90v1vwYr/view?usp=sharing)
