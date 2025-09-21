@@ -51,3 +51,12 @@ This repository contains four projects:
 ## Deployment in GCP Demo Video
 
 - [Deploy MySQL Database in GCP](https://drive.google.com/file/d/1QXXCAg7_zz4mETQpX28nspHS90v1vwYr/view?usp=sharing)
+
+## student Id 
+- 2301671007
+
+## Name
+- Amasha Maduwanthi
+
+## Email
+- amashamaduwanthi123@gmail.com 
